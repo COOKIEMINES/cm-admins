@@ -1,6 +1,6 @@
-FlimixST:630249447:admin
-melixWTF:695598879:admin
-TroYanH:434772589:admin
-dealwithmalinov:615081290:admin
-stqffyislegend:428105732:admin
+FlimixST:630249447:dev
+melixWTF:695598879:dev
+TroYanH:434772589:dev
+dealwithmalinov:615081290:dev
+stqffyislegend:428105732:dev
 FuckMeBlasst:738755354:curator
